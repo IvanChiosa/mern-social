@@ -1,6 +1,6 @@
-# Project SocialLife => Frontend
+# Final project "SocialLife" Frontend
 
-### Final project SocialLife for Digital Career Institute December 2022.
+### Project "SocialLife" for Digital Career Institute December 2022.
  
 #### Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
@@ -79,9 +79,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-# Project SocialLife => Backend
+# Final project "SocialLife" Backend
 
-### Final project SocialLife for Digital Career Institute December 2022.
+### Project "SocialLife" for Digital Career Institute December 2022.
  
 #### Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
