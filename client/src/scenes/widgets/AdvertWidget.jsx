@@ -24,7 +24,7 @@ const AdvertWidget = () => {
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>Ivan&Basil</Typography>
+        <Typography color={main}><b>Ivan&Basil</b></Typography>
         <Typography color={medium}>www.ivanchiosa.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
